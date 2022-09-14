@@ -1,0 +1,11 @@
+.Container{
+    background-color:brown;
+}
+span{
+    color: purple;
+    font-size: larger;
+}
+ul{
+    display: flex;
+    text-transform: none;
+}

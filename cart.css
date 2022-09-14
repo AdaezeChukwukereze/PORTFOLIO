@@ -1,0 +1,56 @@
+.big{
+    background: white;
+    display: flex;
+    align-items: space-between;
+}
+img{height: 200px;
+    width: 100%;
+}
+
+div{
+    grid-template-columns: 50px
+}
+div div i{
+    align-content:flex-end;
+}
+span{
+    color: rgb(0, 4, 255);
+}
+div h5{
+    background: orange;
+    margin-right: 300px;  
+}
+.button {
+    background-color: orange;
+    padding: 1px 100px;
+    text-transform: none;
+    color: white;
+    text-decoration: none;
+}
+
+
+.button i{
+    background-color: white;
+    display: inline-flex;
+    position: relative;
+    left: -95px;
+}
+nav select{
+    padding-left: 50px;
+}
+h6{
+    text-decoration: line-through
+}
+h2 i{
+    font-size: 30px;
+    color: orange;
+}
+h4 i{
+    color: orange;
+}
+div i{
+    color: orange;
+}
+select option{
+    height: 10px;
+}

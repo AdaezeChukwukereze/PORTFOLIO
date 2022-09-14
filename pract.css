@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    background-color: orange;
+}
+.big{
+    background-color: black;
+    color: white;
+    border: 50px;
+    margin-top: 50px;
+    padding-left: 150px;
+    align-items: center;
+}
+.peak{
+    
+}
